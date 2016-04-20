@@ -8,4 +8,5 @@ int main()
                 printf("\n Numer %d  Znak ASCII %c",i,i);
         getch();
         return 0;
+        //gaewrogho
 }
