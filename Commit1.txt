@@ -3,7 +3,7 @@
 
 int main()
 {
-        int i;
+        int i; //owaigoihregoiherg
         for(i=0;i<256;i++)
                 printf("\n Numer %d  Znak ASCII %c",i,i);
         getch();
